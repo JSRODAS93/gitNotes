@@ -7,4 +7,8 @@ git add -A
 git commit -m '<msg>'
 git checkout -b <branchName>
 git status
+git merge <branchName>
+git log
+git diff
+git reset --hard <optional id>
 ```
