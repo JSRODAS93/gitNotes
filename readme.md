@@ -13,9 +13,12 @@ git log
 git diff
 git reset --hard <optional id>
 ```
+<<<<<<< HEAD
 
 > other notes
 
 ```
 clear
 ```
+=======
+>>>>>>> dev
