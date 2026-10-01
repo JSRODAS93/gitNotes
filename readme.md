@@ -13,3 +13,9 @@ git log
 git diff
 git reset --hard <optional id>
 ```
+
+> other notes
+
+```
+clear
+```
